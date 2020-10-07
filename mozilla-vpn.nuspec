@@ -15,7 +15,7 @@
     <docsUrl>https://support.mozilla.org/en-US/products/firefox-private-network-vpn</docsUrl>
     <tags>mozilla vpn privacy security</tags>
     <summary>A VPN from the trusted pioneer in internet privacy.</summary>
-    <description>**IMPORTANT NOTE:** This software requires a Firefox account and an active subscription.
+    <description><![CDATA[**IMPORTANT NOTE:** This software requires a Firefox account and an active subscription.
 
 ## Security you can rely on. A name you can trust.
 A VPN from the trusted pioneer in internet privacy.
@@ -37,7 +37,8 @@ We don’t store your online activity logs on our servers.
 - Connect up to 5 devices
 
 ## About our trusted partner
-The Mozilla VPN runs on a global network of servers powered by [Mullvad](https://mullvad.net/help/no-logging-data-policy/) using the [WireGuard](https://mullvad.net/help/why-wireguard/)® protocol. Mullvad puts your privacy first and does not keep logs of any kind.</description>
+The Mozilla VPN runs on a global network of servers powered by [Mullvad](https://mullvad.net/help/no-logging-data-policy/) using the [WireGuard](https://mullvad.net/help/why-wireguard/)® protocol. Mullvad puts your privacy first and does not keep logs of any kind.
+]]></description>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
