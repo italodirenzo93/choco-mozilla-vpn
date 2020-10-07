@@ -7,6 +7,7 @@
 
     <title>mozilla-vpn (Install)</title>
     <authors>Mozilla</authors>
+    <owners>italodirenzo93</owners>
     <projectUrl>https://vpn.mozilla.org/</projectUrl>
     <iconUrl>https://user-media-prod-cdn.itsre-sumo.mozilla.net/uploads/products/2020-07-14-17-10-01-e9ae16.png</iconUrl>
     <licenseUrl>https://www.mozilla.org/en-US/MPL/2.0/</licenseUrl>
@@ -14,31 +15,29 @@
     <docsUrl>https://support.mozilla.org/en-US/products/firefox-private-network-vpn</docsUrl>
     <tags>mozilla vpn privacy security</tags>
     <summary>A VPN from the trusted pioneer in internet privacy.</summary>
-    <description>
-      *IMPORTANT NOTE:* This software requires a Firefox account and an active subscription.
+    <description>**IMPORTANT NOTE:** This software requires a Firefox account and an active subscription.
 
-      ## Security you can rely on. A name you can trust.
-      A VPN from the trusted pioneer in internet privacy.
+## Security you can rely on. A name you can trust.
+A VPN from the trusted pioneer in internet privacy.
 
-      ## One tap to privacy
-      We use the most advanced protocol, WireGuard®, to encrypt your network activity and hide your IP address.
+## One tap to privacy
+We use the most advanced protocol, WireGuard®, to encrypt your network activity and hide your IP address.
 
-      ## Fast network speed
-      Surf, stream, game, and get work done with fast network speed using our WireGuard® powered servers.
+## Fast network speed
+Surf, stream, game, and get work done with fast network speed using our WireGuard® powered servers.
 
-      ## Your privacy comes first
-      We don’t store your online activity logs on our servers.
+## Your privacy comes first
+We don’t store your online activity logs on our servers.
 
-      ## Features
-      - Device-level encryption
-      - 280+ servers in 30+ countries
-      - No bandwidth restrictions
-      - No logging of your network activity
-      - Connect up to 5 devices
+## Features
+- Device-level encryption
+- 280+ servers in 30+ countries
+- No bandwidth restrictions
+- No logging of your network activity
+- Connect up to 5 devices
 
-      ## About our trusted partner
-      The Mozilla VPN runs on a global network of servers powered by [Mullvad](https://mullvad.net/help/no-logging-data-policy/) using the [WireGuard](https://mullvad.net/help/why-wireguard/)® protocol. Mullvad puts your privacy first and does not keep logs of any kind.
-    </description>
+## About our trusted partner
+The Mozilla VPN runs on a global network of servers powered by [Mullvad](https://mullvad.net/help/no-logging-data-policy/) using the [WireGuard](https://mullvad.net/help/why-wireguard/)® protocol. Mullvad puts your privacy first and does not keep logs of any kind.</description>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
