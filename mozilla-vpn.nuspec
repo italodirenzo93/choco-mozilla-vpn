@@ -9,6 +9,7 @@
     <authors>Mozilla</authors>
     <owners>italodirenzo93</owners>
     <projectUrl>https://vpn.mozilla.org/</projectUrl>
+    <projectSourceUrl>https://github.com/mozilla-services/guardian-vpn-windows</projectSourceUrl>
     <iconUrl>https://user-media-prod-cdn.itsre-sumo.mozilla.net/uploads/products/2020-07-14-17-10-01-e9ae16.png</iconUrl>
     <licenseUrl>https://www.mozilla.org/en-US/MPL/2.0/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
